@@ -1,2 +1,4 @@
+com/galvanize/Program.java
+ com.galvanize.Program
 com/galvanize/Application.java
  com.galvanize.Application
